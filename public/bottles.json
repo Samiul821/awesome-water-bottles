@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "brand": "Hydro Flask",
+    "capacity": "32oz",
+    "material": "Stainless Steel",
+    "color": "Black",
+    "price": 39.99,
+    "weight": "400g",
+    "lifespan": "10 years",
+    "canHoldHotDrink": true,
+    "canHoldColdDrink": true,
+    "image": "https://example.com/images/hydro-flask-black.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Nalgene",
+    "capacity": "1L",
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 14.99,
+    "weight": "180g",
+    "lifespan": "5 years",
+    "canHoldHotDrink": false,
+    "canHoldColdDrink": true,
+    "image": "https://example.com/images/nalgene-blue.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "CamelBak",
+    "capacity": "750ml",
+    "material": "Tritan",
+    "color": "Red",
+    "price": 19.99,
+    "weight": "250g",
+    "lifespan": "7 years",
+    "canHoldHotDrink": false,
+    "canHoldColdDrink": true,
+    "image": "https://example.com/images/camelbak-red.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Contigo",
+    "capacity": "24oz",
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "price": 24.99,
+    "weight": "350g",
+    "lifespan": "8 years",
+    "canHoldHotDrink": true,
+    "canHoldColdDrink": true,
+    "image": "https://example.com/images/contigo-silver.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "S'well",
+    "capacity": "500ml",
+    "material": "Insulated Stainless Steel",
+    "color": "White Marble",
+    "price": 29.99,
+    "weight": "300g",
+    "lifespan": "10 years",
+    "canHoldHotDrink": true,
+    "canHoldColdDrink": true,
+    "image": "https://example.com/images/swell-white-marble.jpg"
+  }
+]
