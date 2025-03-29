@@ -2,7 +2,9 @@ import { Suspense } from "react";
 import "./App.css";
 import Bottles from "./components/Bottles/Bottles";
 
-const bottlesPromise = fetch('./bottles.json').then(res => res.json());
+// const bottlesPromise = fetch('./bottles.json').then(res => res.json());
+
+const bottlesPromise = fetch('./bottles.json').then(res => res.json())
 
 function App() {
   // const bottles = [
